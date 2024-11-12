@@ -1,6 +1,7 @@
 # Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
-# Date :
+# Name : Varadaram SK
+# Date : 12-11-24
 # Aim :
 To write a program to implement the back end of the compiler.
 # ALGORITHM
